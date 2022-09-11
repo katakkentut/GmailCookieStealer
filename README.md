@@ -40,6 +40,12 @@ Download Cookies file from your mega account and put into the same directory wit
 
 <img src="https://github.com/katakkentut/GmailCookieStealer/blob/master/screenshot/example-2.png">
 
+### Change Account
+
+Change line 47 and 48 to your own mega account
+
+<img src="https://github.com/katakkentut/GmailCookieStealer/blob/master/screenshot/example-1.png">
+
 ### Convert To EXE
 
 ```python
@@ -50,11 +56,7 @@ Download Cookies file from your mega account and put into the same directory wit
   py -m nuitka --mingw64 .\cookies_stealer.py --standalone --onefile 
  ```
  
-### Change Account
 
-Change line 47 and 48 to your own mega account
-
-<img src="https://github.com/katakkentut/GmailCookieStealer/blob/master/screenshot/example-1.png">
 
 
  
