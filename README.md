@@ -36,6 +36,8 @@ This tool will work if user doesn't logout their Gmail Account in their browser.
 
 ### Load Cookies
 Download Cookies file from your mega account and put into the same directory with load_cookies.py. Change line 11 with the same name of cookies file.
+
+
 <img src="https://github.com/katakkentut/GmailCookieStealer/blob/master/screenshot/example-2.png">
 
 ### Convert To EXE
