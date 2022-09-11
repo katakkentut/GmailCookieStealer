@@ -1,0 +1,4 @@
+chromedriver_autoinstaller==0.4.0
+mega.py==1.0.8
+selenium==4.4.3
+undetected_chromedriver==3.1.5.post4
